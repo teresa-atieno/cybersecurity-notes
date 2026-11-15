@@ -27,3 +27,17 @@ Cyber Security is the practice of protecting computers, networks, and data from 
 
 ---
 *Notes by Teresa Atieno - Cyber Security Student*
+## Lesson 2: Linux Basics 🐧
+
+Linux is the system hackers use. Kali Linux is the most famous one.
+
+**Why Linux?**
+- Most hacking tools are built for Linux
+- It is free and powerful
+
+**Important Commands:**
+- pwd - Shows where you are
+- ls - Lists files
+- cd - Change folder
+- mkdir - Create folder
+- whoami - Shows who you are
